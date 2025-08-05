@@ -28,7 +28,7 @@ const ProgramDetailPage = () => {
     { value: "master_common", label: "Master Common", icon: "Star" },
   ];
 
-  const loadData = async () => {
+const loadData = async () => {
     try {
       setError("");
       setLoading(true);
@@ -42,15 +42,22 @@ const ProgramDetailPage = () => {
       setLectures(lecturesData);
       setFilteredLectures(lecturesData);
     } catch (err) {
-      setError(err.message || "Failed to load program details");
-      console.error("Error loading program details:", err);
+      const errorMessage = err.message || "Failed to load program details";
+      setError(errorMessage);
+      console.error("Error loading program details:", {
+        slug,
+        error: err.message,
+        timestamp: new Date().toISOString()
+      });
     } finally {
       setLoading(false);
     }
   };
 
   useEffect(() => {
-    loadData();
+    if (slug) {
+      loadData();
+    }
   }, [slug]);
 
   useEffect(() => {

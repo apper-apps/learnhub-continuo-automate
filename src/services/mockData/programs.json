@@ -51,6 +51,15 @@
     "thumbnail_url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&h=400&fit=crop",
     "description_short": "Master blockchain technology and cryptocurrency development.",
     "description_long": "Cutting-edge program covering blockchain fundamentals, smart contract development, DeFi protocols, NFT creation, and cryptocurrency trading strategies. Build real blockchain applications.",
-    "has_common_course": false
+"has_common_course": false
+  },
+  {
+    "Id": 7,
+    "slug": "membership",
+    "title": "Membership Program",
+    "thumbnail_url": "https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=600&h=400&fit=crop",
+    "description_short": "Exclusive membership program with access to premium content and community features.",
+    "description_long": "Premium membership program offering unlimited access to all courses, exclusive webinars, personalized mentorship, priority support, and access to our private community of learners and industry experts.",
+    "has_common_course": true
   }
 ]
