@@ -1,0 +1,62 @@
+[
+  {
+    "Id": 1,
+    "slug": "future-of-web-development",
+    "title": "The Future of Web Development: Trends to Watch in 2024",
+    "thumbnail_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=600&h=400&fit=crop",
+    "excerpt": "Explore the cutting-edge technologies and frameworks that are shaping the future of web development, from AI integration to serverless architectures.",
+    "content_richtext": "<h2>Revolutionary Changes in Web Development</h2><p>The web development landscape is evolving at an unprecedented pace. With the rise of artificial intelligence, serverless computing, and progressive web applications, developers need to stay ahead of the curve.</p><h3>Key Trends to Watch</h3><ul><li>AI-powered development tools</li><li>Serverless and edge computing</li><li>Web3 and blockchain integration</li><li>Advanced JavaScript frameworks</li></ul><p>These technologies are not just trends—they're the foundation of tomorrow's web experiences.</p>",
+    "author_id": "user_2",
+    "created_at": "2024-01-15T10:30:00Z"
+  },
+  {
+    "Id": 2,
+    "slug": "mastering-react-performance",
+    "title": "Mastering React Performance: Advanced Optimization Techniques",
+    "thumbnail_url": "https://images.unsplash.com/photo-1633356122544-f134324a6cee?w=600&h=400&fit=crop",
+    "excerpt": "Learn advanced React optimization techniques that will make your applications lightning-fast and provide exceptional user experiences.",
+    "content_richtext": "<h2>Performance Optimization Strategies</h2><p>React applications can become slow without proper optimization. Here are the most effective techniques to boost performance.</p><h3>Core Optimization Methods</h3><ul><li>Memoization with useMemo and useCallback</li><li>Code splitting and lazy loading</li><li>Virtual scrolling for large lists</li><li>Bundle analysis and optimization</li></ul><p>Implementing these strategies can reduce load times by up to 60% in complex applications.</p>",
+    "author_id": "user_3",
+    "created_at": "2024-01-12T14:15:00Z"
+  },
+  {
+    "Id": 3,
+    "slug": "data-science-career-guide",
+    "title": "Complete Career Guide: Breaking into Data Science in 2024",
+    "thumbnail_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+    "excerpt": "A comprehensive roadmap for aspiring data scientists, covering essential skills, portfolio building, and landing your first data science role.",
+    "content_richtext": "<h2>Your Data Science Journey</h2><p>Data science is one of the most rewarding career paths in tech. This guide provides a clear roadmap to success.</p><h3>Essential Skills to Master</h3><ul><li>Python and R programming</li><li>Statistical analysis and modeling</li><li>Machine learning algorithms</li><li>Data visualization tools</li></ul><p>With dedication and the right learning path, you can transition into data science within 6-12 months.</p>",
+    "author_id": "user_4",
+    "created_at": "2024-01-10T09:45:00Z"
+  },
+  {
+    "Id": 4,
+    "slug": "mobile-first-design-principles",
+    "title": "Mobile-First Design: Creating Exceptional User Experiences",
+    "thumbnail_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&h=400&fit=crop",
+    "excerpt": "Discover the principles of mobile-first design and learn how to create user interfaces that work seamlessly across all devices.",
+    "content_richtext": "<h2>The Mobile-First Approach</h2><p>With mobile traffic accounting for over 60% of web usage, mobile-first design is no longer optional—it's essential.</p><h3>Core Design Principles</h3><ul><li>Progressive enhancement</li><li>Touch-friendly interfaces</li><li>Optimized loading performance</li><li>Responsive typography</li></ul><p>These principles ensure your applications provide excellent experiences on every device.</p>",
+    "author_id": "user_5",
+    "created_at": "2024-01-08T16:20:00Z"
+  },
+  {
+    "Id": 5,
+    "slug": "ai-in-software-development",
+    "title": "AI in Software Development: Tools That Are Changing Everything",
+    "thumbnail_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
+    "excerpt": "Explore how artificial intelligence is revolutionizing software development, from code generation to automated testing and deployment.",
+    "content_richtext": "<h2>AI-Powered Development Tools</h2><p>Artificial intelligence is transforming how we write, test, and deploy code. These tools are becoming indispensable for modern developers.</p><h3>Game-Changing AI Tools</h3><ul><li>GitHub Copilot for code generation</li><li>AI-powered testing frameworks</li><li>Automated code review systems</li><li>Intelligent debugging assistants</li></ul><p>Developers who embrace these tools report 40% faster development cycles and fewer bugs in production.</p>",
+    "author_id": "user_6",
+    "created_at": "2024-01-05T11:10:00Z"
+  },
+  {
+    "Id": 6,
+    "slug": "cybersecurity-best-practices",
+    "title": "Cybersecurity Best Practices Every Developer Should Know",
+    "thumbnail_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+    "excerpt": "Essential cybersecurity practices that every developer needs to implement to protect applications and user data from modern threats.",
+    "content_richtext": "<h2>Security-First Development</h2><p>With cyber threats evolving rapidly, security can't be an afterthought. It must be built into every layer of your application.</p><h3>Critical Security Measures</h3><ul><li>Input validation and sanitization</li><li>Secure authentication systems</li><li>Data encryption at rest and in transit</li><li>Regular security audits</li></ul><p>Implementing these practices from day one prevents costly security breaches and protects user trust.</p>",
+    "author_id": "user_2",
+    "created_at": "2024-01-03T13:25:00Z"
+  }
+]

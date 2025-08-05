@@ -1,0 +1,52 @@
+[
+  {
+    "Id": 1,
+    "name": "Alex Chen",
+    "email": "alex@example.com",
+    "role": "master",
+    "master_cohort": 3,
+    "is_admin": true,
+    "avatar_url": "https://images.unsplash.com/photo-1472099645785-5658abf4ff4e?w=100&h=100&fit=crop&crop=face",
+    "joined_at": "2023-06-15T10:00:00Z"
+  },
+  {
+    "Id": 2,
+    "name": "Sarah Johnson",
+    "email": "sarah@example.com",
+    "role": "member",
+    "master_cohort": null,
+    "is_admin": false,
+    "avatar_url": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=100&h=100&fit=crop&crop=face",
+    "joined_at": "2023-08-20T14:30:00Z"
+  },
+  {
+    "Id": 3,
+    "name": "Michael Rodriguez",
+    "email": "michael@example.com",
+    "role": "both",
+    "master_cohort": 2,
+    "is_admin": false,
+    "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=100&h=100&fit=crop&crop=face",
+    "joined_at": "2023-07-10T09:15:00Z"
+  },
+  {
+    "Id": 4,
+    "name": "Emily Davis",
+    "email": "emily@example.com",
+    "role": "free",
+    "master_cohort": null,
+    "is_admin": false,
+    "avatar_url": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?w=100&h=100&fit=crop&crop=face",
+    "joined_at": "2024-01-05T16:45:00Z"
+  },
+  {
+    "Id": 5,
+    "name": "David Kim",
+    "email": "david@example.com",
+    "role": "master",
+    "master_cohort": 1,
+    "is_admin": true,
+    "avatar_url": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=100&h=100&fit=crop&crop=face",
+    "joined_at": "2023-05-22T11:20:00Z"
+  }
+]

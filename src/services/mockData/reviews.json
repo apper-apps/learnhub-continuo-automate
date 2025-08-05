@@ -1,0 +1,58 @@
+[
+  {
+    "Id": 1,
+    "text": "This platform transformed my career! The hands-on projects and expert mentorship helped me land my dream job as a full-stack developer. The content is practical and up-to-date.",
+    "author_id": "user_7",
+    "likes": ["user_1", "user_2", "user_3", "user_4", "user_5"],
+    "created_at": "2024-01-20T10:15:00Z"
+  },
+  {
+    "Id": 2,
+    "text": "Incredible learning experience! The instructors are industry experts who really care about student success. I went from beginner to confident developer in just 6 months.",
+    "author_id": "user_8",
+    "likes": ["user_1", "user_3", "user_6"],
+    "created_at": "2024-01-18T14:30:00Z"
+  },
+  {
+    "Id": 3,
+    "text": "The data science program exceeded my expectations. Real datasets, practical projects, and career support made all the difference. Now working at a top tech company!",
+    "author_id": "user_9",
+    "likes": ["user_2", "user_4", "user_5", "user_7"],
+    "created_at": "2024-01-16T09:45:00Z"
+  },
+  {
+    "Id": 4,
+    "text": "Best investment I've made in my career. The mobile development course was comprehensive and the support community is amazing. Highly recommend to anyone serious about coding.",
+    "author_id": "user_10",
+    "likes": ["user_1", "user_6", "user_8"],
+    "created_at": "2024-01-14T16:20:00Z"
+  },
+  {
+    "Id": 5,
+    "text": "The AI and machine learning program is cutting-edge. Complex topics explained clearly with hands-on projects. The cohort-based learning approach creates great networking opportunities.",
+    "author_id": "user_11",
+    "likes": ["user_3", "user_5", "user_9", "user_10"],
+    "created_at": "2024-01-12T11:10:00Z"
+  },
+  {
+    "Id": 6,
+    "text": "Cybersecurity essentials course gave me the confidence to transition careers. The practical labs and real-world scenarios prepared me for actual security challenges.",
+    "author_id": "user_12",
+    "likes": ["user_2", "user_7", "user_11"],
+    "created_at": "2024-01-10T13:25:00Z"
+  },
+  {
+    "Id": 7,
+    "text": "Outstanding platform with world-class content. The blockchain development program opened doors I never thought possible. The instructors are patient and knowledgeable.",
+    "author_id": "user_13",
+    "likes": ["user_4", "user_8", "user_12"],
+    "created_at": "2024-01-08T15:40:00Z"
+  },
+  {
+    "Id": 8,
+    "text": "Life-changing experience! The structured learning path and project-based approach made complex topics accessible. Got promoted within 3 months of completing the program.",
+    "author_id": "user_14",
+    "likes": ["user_1", "user_5", "user_6", "user_9", "user_13"],
+    "created_at": "2024-01-06T12:15:00Z"
+  }
+]

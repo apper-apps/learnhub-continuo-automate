@@ -1,0 +1,56 @@
+[
+  {
+    "Id": 1,
+    "slug": "web-development-mastery",
+    "title": "Web Development Mastery",
+    "thumbnail_url": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?w=600&h=400&fit=crop",
+    "description_short": "Master modern web development with React, Node.js, and cutting-edge technologies.",
+    "description_long": "Comprehensive program covering frontend development with React, backend development with Node.js, database design, deployment strategies, and modern development workflows. Includes hands-on projects and real-world applications.",
+    "has_common_course": true
+  },
+  {
+    "Id": 2,
+    "slug": "data-science-fundamentals",
+    "title": "Data Science Fundamentals",
+    "thumbnail_url": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=600&h=400&fit=crop",
+    "description_short": "Learn data analysis, machine learning, and statistical modeling from industry experts.",
+    "description_long": "Complete data science curriculum covering Python programming, statistical analysis, machine learning algorithms, data visualization, and big data technologies. Perfect for beginners and professionals looking to transition into data science.",
+    "has_common_course": false
+  },
+  {
+    "Id": 3,
+    "slug": "mobile-app-development",
+    "title": "Mobile App Development",
+    "thumbnail_url": "https://images.unsplash.com/photo-1512941937669-90a1b58e7e9c?w=600&h=400&fit=crop",
+    "description_short": "Build native and cross-platform mobile applications for iOS and Android.",
+    "description_long": "Comprehensive mobile development program covering React Native, Flutter, native iOS and Android development, app store optimization, and mobile UI/UX design principles.",
+    "has_common_course": true
+  },
+  {
+    "Id": 4,
+    "slug": "ai-machine-learning",
+    "title": "AI & Machine Learning",
+    "thumbnail_url": "https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=600&h=400&fit=crop",
+    "description_short": "Dive deep into artificial intelligence and machine learning algorithms.",
+    "description_long": "Advanced program covering neural networks, deep learning, natural language processing, computer vision, and AI ethics. Includes practical projects with real datasets and industry case studies.",
+    "has_common_course": false
+  },
+  {
+    "Id": 5,
+    "slug": "cybersecurity-essentials",
+    "title": "Cybersecurity Essentials",
+    "thumbnail_url": "https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=600&h=400&fit=crop",
+    "description_short": "Protect systems and networks with comprehensive cybersecurity training.",
+    "description_long": "Essential cybersecurity program covering threat assessment, penetration testing, network security, cryptography, incident response, and compliance frameworks. Hands-on labs with real security scenarios.",
+    "has_common_course": true
+  },
+  {
+    "Id": 6,
+    "slug": "blockchain-development",
+    "title": "Blockchain Development",
+    "thumbnail_url": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=600&h=400&fit=crop",
+    "description_short": "Master blockchain technology and cryptocurrency development.",
+    "description_long": "Cutting-edge program covering blockchain fundamentals, smart contract development, DeFi protocols, NFT creation, and cryptocurrency trading strategies. Build real blockchain applications.",
+    "has_common_course": false
+  }
+]

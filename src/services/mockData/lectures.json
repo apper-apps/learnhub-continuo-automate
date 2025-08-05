@@ -1,0 +1,102 @@
+[
+  {
+    "Id": 1,
+    "program_slug": "web-development-mastery",
+    "level": "membership",
+    "cohort_number": null,
+    "category": "Frontend Basics",
+    "title": "HTML5 and Semantic Markup",
+    "embed_url": "https://www.youtube.com/embed/UB1O30fR-EE",
+    "sort_order": 1
+  },
+  {
+    "Id": 2,
+    "program_slug": "web-development-mastery",
+    "level": "membership",
+    "cohort_number": null,
+    "category": "Frontend Basics",
+    "title": "CSS3 and Modern Styling",
+    "embed_url": "https://www.youtube.com/embed/1Rs2ND1ryYc",
+    "sort_order": 2
+  },
+  {
+    "Id": 3,
+    "program_slug": "web-development-mastery",
+    "level": "master",
+    "cohort_number": 3,
+    "category": "Advanced Frontend",
+    "title": "React Hooks Deep Dive",
+    "embed_url": "https://www.youtube.com/embed/TNhaISOUy6Q",
+    "sort_order": 3
+  },
+  {
+    "Id": 4,
+    "program_slug": "web-development-mastery",
+    "level": "master",
+    "cohort_number": 3,
+    "category": "Backend Development",
+    "title": "Node.js and Express Framework",
+    "embed_url": "https://www.youtube.com/embed/Oe421EPjeBE",
+    "sort_order": 4
+  },
+  {
+    "Id": 5,
+    "program_slug": "web-development-mastery",
+    "level": "master_common",
+    "cohort_number": null,
+    "category": "Deployment",
+    "title": "Docker and Container Orchestration",
+    "embed_url": "https://www.youtube.com/embed/3c-iBn73dDE",
+    "sort_order": 5
+  },
+  {
+    "Id": 6,
+    "program_slug": "data-science-fundamentals",
+    "level": "membership",
+    "cohort_number": null,
+    "category": "Python Basics",
+    "title": "Python for Data Science",
+    "embed_url": "https://www.youtube.com/embed/LHBE6Q9XlzI",
+    "sort_order": 1
+  },
+  {
+    "Id": 7,
+    "program_slug": "data-science-fundamentals",
+    "level": "master",
+    "cohort_number": 2,
+    "category": "Machine Learning",
+    "title": "Linear Regression and Classification",
+    "embed_url": "https://www.youtube.com/embed/nk2CQITm_eo",
+    "sort_order": 2
+  },
+  {
+    "Id": 8,
+    "program_slug": "mobile-app-development",
+    "level": "membership",
+    "cohort_number": null,
+    "category": "React Native",
+    "title": "Getting Started with React Native",
+    "embed_url": "https://www.youtube.com/embed/0-S5a0eXPoc",
+    "sort_order": 1
+  },
+  {
+    "Id": 9,
+    "program_slug": "mobile-app-development",
+    "level": "master",
+    "cohort_number": 1,
+    "category": "Native Development",
+    "title": "iOS Development with Swift",
+    "embed_url": "https://www.youtube.com/embed/comQ1-x2a1Q",
+    "sort_order": 2
+  },
+  {
+    "Id": 10,
+    "program_slug": "ai-machine-learning",
+    "level": "master",
+    "cohort_number": 1,
+    "category": "Deep Learning",
+    "title": "Neural Networks from Scratch",
+    "embed_url": "https://www.youtube.com/embed/aircAruvnKk",
+    "sort_order": 1
+  }
+]
