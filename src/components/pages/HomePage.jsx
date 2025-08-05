@@ -1,15 +1,15 @@
 import React, { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
+import { programService } from "@/services/api/programService";
+import { reviewService } from "@/services/api/reviewService";
+import { postService } from "@/services/api/postService";
 import ApperIcon from "@/components/ApperIcon";
-import Button from "@/components/atoms/Button";
-import ProgramCard from "@/components/molecules/ProgramCard";
 import PostCard from "@/components/molecules/PostCard";
 import ReviewCard from "@/components/molecules/ReviewCard";
+import ProgramCard from "@/components/molecules/ProgramCard";
 import Loading from "@/components/ui/Loading";
 import Error from "@/components/ui/Error";
-import { programService } from "@/services/api/programService";
-import { postService } from "@/services/api/postService";
-import { reviewService } from "@/services/api/reviewService";
+import Button from "@/components/atoms/Button";
 
 const HomePage = () => {
   const [featuredPrograms, setFeaturedPrograms] = useState([]);
@@ -60,11 +60,11 @@ const HomePage = () => {
     );
   }
 
-  return (
+return (
     <div className="min-h-screen">
       {/* Hero Section */}
 <div className="absolute inset-0 bg-gradient-to-br from-primary via-secondary to-background"></div>
-        <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg width=\"60\" height=\"60\" viewBox=\"0 0 60 60\" xmlns=\"http://www.w3.org/2000/svg\"%3E%3Cg fill=\"none\" fill-rule=\"evenodd\"%3E%3Cg fill=\"%23ff6b8b\" fill-opacity=\"0.05\"%3E%3Ccircle cx=\"30\" cy=\"30\" r=\"2\"/%3E%3C/g%3E%3C/g%3E%3C/svg%3E')] opacity-30"></div>
+        <div className="absolute inset-0 bg-[url('data:image/svg+xml,%3Csvg%20width%3D%2260%22%20height%3D%2260%22%20viewBox%3D%220%200%2060%2060%22%20xmlns%3D%22http%3A//www.w3.org/2000/svg%22%3E%3Cg%20fill%3D%22none%22%20fill-rule%3D%22evenodd%22%3E%3Cg%20fill%3D%22%23ff6b8b%22%20fill-opacity%3D%220.05%22%3E%3Ccircle%20cx%3D%2230%22%20cy%3D%2230%22%20r%3D%222%22/%3E%3C/g%3E%3C/g%3E%3C/svg%3E')] opacity-30"></div>
         
         <div className="relative max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
