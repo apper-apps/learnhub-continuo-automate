@@ -42,12 +42,27 @@ const loadData = async () => {
       setLectures(lecturesData);
       setFilteredLectures(lecturesData);
     } catch (err) {
-      const errorMessage = err.message || "Failed to load program details";
+      // Enhanced error handling to prevent "[object Object]" messages
+      let errorMessage = "Failed to load program details";
+      
+      if (err instanceof Error) {
+        errorMessage = err.message || errorMessage;
+      } else if (typeof err === 'string') {
+        errorMessage = err;
+      } else if (err && typeof err === 'object' && err.message) {
+        errorMessage = err.message;
+      }
+      
       setError(errorMessage);
+      
+      // Enhanced error logging with proper serialization
       console.error("Error loading program details:", {
         slug,
-        error: err.message,
-        timestamp: new Date().toISOString()
+        error: err instanceof Error ? err.message : String(err),
+        stack: err instanceof Error ? err.stack : undefined,
+        errorType: typeof err,
+        timestamp: new Date().toISOString(),
+        fullError: err
       });
     } finally {
       setLoading(false);
